@@ -27,6 +27,7 @@ This commands includes
 <BR>
 
 ## Output
+```
 IPCONFIG
 Windows IP Configuration
 
@@ -417,5 +418,6 @@ Internet Address      Physical Address      Type
 224.0.0.252           01-00-5e-00-00-fc     static
 239.255.255.250       01-00-5e-7f-ff-fa     static
 255.255.255.255       ff-ff-ff-ff-ff-ff     static
+```
 ## Result
 Thus Execution of Network commands Performed 
